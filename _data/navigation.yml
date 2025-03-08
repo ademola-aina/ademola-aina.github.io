@@ -9,14 +9,14 @@ main:
     # url: /publications/
     url: "https://scholar.google.com/citations?user=pHbO9D0AAAAJ&hl=en"
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /research/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  # url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -25,5 +25,5 @@ main:
     # url: /cv/
     url: "/files/UFcv.pdf"
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #  url: /markdown/
