@@ -21,11 +21,15 @@ where I work in industrial hemp (Cannabis sativa L.) genetics and improvement.
 
 Previously, I've worked in the Bioscience and Genetic Resources Centers of the 
 International Institute of Tropical Agriculture, [IITA](https://www.iita.org/research/genetic-resources/),
-one of the a non–profit and research–for–development (R4D) center under the UN’s 
+one of the a non–profit and international research–for–development (R4D) center under the UN’s 
 Consultative Group on International Agriculture Research. 
 
 
-
+My research focuses on enhancing crop genetics and breeding 
+through genetic diversity, QTL mapping, and development of molecular markers. 
+Also, I'm interested in marker-assisted and genomic selection, study of abiotic stress 
+effects on crops, and the development of cost-effective and high-throughput 
+phenotyping and genotyping methods to improve quality and yield.
 
 
 
