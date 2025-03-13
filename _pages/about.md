@@ -33,8 +33,6 @@ phenotyping and genotyping methods to improve quality and yield.
 
 #![Illustration](/images/BillGatesquote.jpeg){: .align-left width="300px"}
 
-<p align="center">
-  <img src="/images/Borlaug-quote.png" alt="Illustration" width="300px">
-</p>
+
 
 
