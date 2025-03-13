@@ -31,7 +31,7 @@ Also, I'm interested in marker-assisted and genomic selection, study of abiotic 
 effects on crops, and the development of cost-effective and high-throughput 
 phenotyping and genotyping methods to improve quality and yield.
 
-#![Illustration](/images/BillGatesquote.jpeg){: .align-left width="300px"}
+![Illustration](/images/BillGatesquote.jpeg){: .align-left width="500px"}
 
 
 
