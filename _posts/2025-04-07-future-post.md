@@ -1,6 +1,6 @@
 ---
-title: '[IITA Researcher](https://www.iita.org/news-item/iita-graduate-researcher-named-borlaug-leap-awardee-2/) named Borlaug LEAP awardee' 
-'
+title: '[IITA Researcher](https://www.iita.org/news-item/iita-graduate-researcher-named-borlaug-leap-awardee-2/) named Borlaug LEAP awardee'
+
 date: 2025-04-07
 permalink: /posts/2025/07/blog-post-4/
 tags:
