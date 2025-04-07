@@ -1,5 +1,5 @@
 ---
-title: ' Ademola Aina, An IITA Researcher named Borlaug LEAP [awardee](https://www.iita.org/news-item/iita-graduate-researcher-named-borlaug-leap-awardee-2/)'
+title: ' Ademola Aina, An IITA Researcher named Borlaug LEAP [fellow](https://www.iita.org/news-item/iita-graduate-researcher-named-borlaug-leap-awardee-2/)'
 
 date: 2025-04-07
 permalink: /posts/2025/07/blog-post-4/
