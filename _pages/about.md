@@ -16,20 +16,17 @@ redirect_from:
 I'm a postdoctoral research scientist in the 
 [Ellison Lab](https://alternativecrops.horticulture.wisc.edu/staff/aina-ademola/) 
 in the Department of Plant and Agroecosystem Sciences at the the University of Wisconsin-Madison, 
-where I work in industrial hemp (Cannabis sativa L.) genetics and improvement.  
+where I focus on the genetics and improvement of industrial hemp (Cannabis sativa L.). 
 
 
 Previously, I've worked in the Bioscience and Genetic Resources Centers of the 
 International Institute of Tropical Agriculture, [IITA](https://www.iita.org/research/genetic-resources/),
-one of the a non–profit and international research–for–development (R4D) center under the UN’s 
+one of the non–profit international research–for–development (R4D) center under the UN’s 
 Consultative Group on International Agriculture Research. 
 
 
-My research focuses on enhancing crop genetics and breeding 
-through genetic diversity, QTL mapping, and development of molecular markers. 
-Also, I'm interested in marker-assisted and genomic selection, study of abiotic stress 
-effects on crops, and the development of cost-effective and high-throughput 
-phenotyping and genotyping methods to improve quality and yield.
+My research centers on improving crop genetics and breeding by leveraging genetic diversity, quantitative trait loci (QTL) mapping, association studies (GWAS) and molecular marker development. I am particularly interested in advancing marker-assisted and genomic selection strategies, investigating the impact of abiotic stress on crop performance, and developing cost-effective, high-throughput phenotyping and genotyping platforms to enhance crop quality and yield.
+
 
 ![Illustration](/images/BillGatesquote.jpeg){: .align-left width="500px"}
 
