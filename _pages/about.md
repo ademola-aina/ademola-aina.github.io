@@ -13,10 +13,17 @@ redirect_from:
 
 ![Illustration](/images/Borlaug-quote.png){: .align-right width="300px"}
 
-I'm a postdoctoral research scientist in the 
-[Ellison Lab](https://alternativecrops.horticulture.wisc.edu/staff/aina-ademola/) 
-in the Department of Plant and Agroecosystem Sciences at the the University of Wisconsin-Madison, 
-where I focus on the genetics and improvement of industrial hemp (Cannabis sativa L.). 
+I'm a research scientist at the University of Wyoming, 
+Sheridan Research and Extension Center (ShREC), where I support research 
+across a wide array of subjects, including forage agronomy, rangeland restoration and conservation, 
+weed science, precision agriculture, and breeding in a variety of crops 
+(Sugar beet, field pea, chickpea, cowpea, popping bean,alfalfa,
+sagebrush and mungbean).
+
+
+Former postdoctoral research scientist in the 
+[Ellison Lab](https://alternativecrops.horticulture.wisc.edu/2025/10/31/ellison-lab-team-updates/) 
+at the the University of Wisconsin-Madison with focus on industrial hemp genetics (Cannabis sativa L.). 
 
 
 Previously, I've worked in the Bioscience and Genetic Resources Centers of the 
@@ -25,7 +32,7 @@ one of the non–profit international research–for–development (R4D) center 
 Consultative Group on International Agriculture Research. 
 
 
-My research centers on improving crop genetics and breeding by leveraging genetic diversity, quantitative trait loci (QTL) mapping, association studies (GWAS) and molecular marker development. I am particularly interested in advancing marker-assisted and genomic selection strategies, investigating the impact of abiotic stress on crop performance, and developing cost-effective, high-throughput phenotyping and genotyping platforms to enhance crop quality and yield.
+My research centers on crop improvement by leveraging genetic diversity, quantitative trait loci (QTL) mapping, association studies (GWAS) and molecular marker development. I am particularly interested in advancing marker-assisted and genomic selection strategies, investigating the impact of biotic and abiotic stress on crop performance, and developing cost-effective, high-throughput phenotyping and genotyping platforms to enhance crop quality and yield.
 
 
 ![Illustration](/images/BillGatesquote.jpeg){: .align-left width="500px"}
