@@ -16,7 +16,7 @@ redirect_from:
 I'm a Research Scientist at the University of Wyoming, 
 Sheridan Research and Extension Center (ShREC), where I support research 
 across a wide array of subjects, including forage agronomy, rangeland restoration and conservation, 
-weed science, precision agriculture, and breeding, in a variety of crops 
+weed science, precision agriculture, and breeding in a variety of crops 
 (Sugar beet, field pea, chickpea, cowpea, popping bean,alfalfa,
 sagebrush and mungbean).
 
