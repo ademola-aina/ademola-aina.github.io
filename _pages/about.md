@@ -21,7 +21,7 @@ weed science, precision agriculture, and breeding in a variety of crops
 sagebrush and mungbean).
 
 Former Postdoctoral Research Scientist in the 
-[Ellison Lab](https://alternativecrops.horticulture.wisc.edu/2025/10/31/ellison-lab-team-updates/),
+[Ellison Lab](https://alternativecrops.horticulture.wisc.edu/staff/aina-ademola/),
 University of Wisconsin-Madison with focus on industrial hemp genetics (Cannabis sativa L.). Previously, 
 a Research Fellow in the Bioscience and Genetic Resources Centers of the 
 International Institute of Tropical Agriculture, [IITA](https://www.iita.org/research/genetic-resources/),
